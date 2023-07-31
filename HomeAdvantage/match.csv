@@ -1,0 +1,163 @@
+Year,Team1,FullScore,Penaltis,VisitantAdvantage,Team2,FirstMatch,SecondMatch,Anomaly,Phase
+2022,Athletico Paranaense,3–2,,,Libertad,2–1,1–1,0,RoundOf16
+2022,Deportes Tolima,1–8,,,Flamengo,0–1,1–7,0,RoundOf16
+2022,Vélez Sarsfield,1–0,,,River Plate,1–0,0–0,0,RoundOf16
+2022,Emelec,1–2,,,Atlético Mineiro,1–1,0–1,0,RoundOf16
+2022,Cerro Porteño,0–8,,,Palmeiras,0–3,0–5,0,RoundOf16
+2022,Talleres,3–1,,,Colón,1–1,2–0,0,RoundOf16
+2022,Corinthians,0–0,6–5,,Boca Juniors,0–0,0–0,0,RoundOf16
+2022,Fortaleza,1–4,,,Estudiantes,1–1,0–3,0,RoundOf16
+2021,Defensa y Justicia,1–5,,,Flamengo,0–1,1–4,0,RoundOf16
+2021,Boca Juniors,0–0,1–3,,Atlético Mineiro,0–0,0–0,0,RoundOf16
+2021,Universidad Católica,0–2,,,Palmeiras,0–1,0–1,0,RoundOf16
+2021,Cerro Porteño,0–3,,,Fluminense,0–2,0–1,0,RoundOf16
+2021,Vélez Sarsfield,2–3,,,Barcelona de Guayaquil,1–0,1–3,0,RoundOf16
+2021,São Paulo,4–2,,,Racing,1–1,3–1,0,RoundOf16
+2021,River Plate,3–1,,,Argentinos Juniors,1–1,2–0,0,RoundOf16
+2021,Olimpia,0–0,5–4,,Internacional,0–0,0–0,0,RoundOf16
+2020,Guaraní,0–4,,,Grêmio,0–2,0–2,0,RoundOf16
+2020,Independiente del Valle,0–0,2–4,,Nacional,0–0,0–0,0,RoundOf16
+2020,Delfín,1–8,,,Palmeiras,1–3,0–5,0,RoundOf16
+2020,Internacional,1–1,4–5,,Boca Juniors,0–1,1–0,0,RoundOf16
+2020,Racing,2–2,5–3,,Flamengo,1–1,1–1,0,RoundOf16
+2020,Libertad,5–1,,,Jorge Wilstermann,3–1,2–0,0,RoundOf16
+2020,Athletico Paranaense,1–2,,,River Plate,1–1,0–1,0,RoundOf16
+2020,LDU Quito,2–2,,0–1,Santos,1–2,1–0,0,RoundOf16
+2019,River Plate,0–0,4–2,,Cruzeiro,0–0,0–0,0,RoundOf16
+2019,Godoy Cruz,2–6,,,Palmeiras,2–2,0–4,0,RoundOf16
+2019,Emelec,2–2,2–4,,Flamengo,2–0,0–2,0,RoundOf16
+2019,LDU Quito,4–2,,,Olimpia,3–1,1–1,0,RoundOf16
+2019,Athletico Paranaense,0–3,,,Boca Juniors,0–1,0–2,0,RoundOf16
+2019,Nacional,0–3,,,Internacional,0–1,0–2,0,RoundOf16
+2019,Grêmio,5–0,,,Libertad,2–0,3–0,0,RoundOf16
+2019,San Lorenzo,1–2,,,Cerro Porteño,0–0,1–2,0,RoundOf16
+2018,Racing,0–3,,,River Plate,0–0,0–3,0,RoundOf16
+2018,Colo-Colo,2–2,,1–0,Corinthians,1–0,1–2,0,RoundOf16
+2018,Flamengo,1–2,,,Cruzeiro,0–2,1–0,0,RoundOf16
+2018,Estudiantes,3–3,3–5,,Grêmio,2–1,1–2,0,RoundOf16
+2018,Atlético Tucumán,2–1,,,Atlético Nacional,2–0,0–1,0,RoundOf16
+2018,Boca Juniors,6–2,,,Libertad,2–0,4–2,0,RoundOf16
+2018,Cerro Porteño,1–2,,,Palmeiras,0–2,1–0,0,RoundOf16
+2018,Independiente,3–0,,,Santos,3–0,0–0,1,RoundOf16
+2017,Guaraní,1–3,,,River Plate,0–2,1–1,0,RoundOf16
+2017,Atlético Paranaense,2–4,,,Santos,2–3,0–1,0,RoundOf16
+2017,Nacional,0–3,,,Botafogo,0–1,0–2,0,RoundOf16
+2017,Emelec,1–1,4–5,,San Lorenzo,0–1,1–0,0,RoundOf16
+2017,The Strongest,1–2,,,Lanús,1–1,0–1,0,RoundOf16
+2017,Godoy Cruz,1–3,,,Grêmio,0–1,1–2,0,RoundOf16
+2017,Barcelona,1–1,5–4,,Palmeiras,1–0,0–1,0,RoundOf16
+2017,Jorge Wilstermann,1–0,,,Atlético Mineiro,1–0,0–0,0,RoundOf16
+2016,Huracán,2–4,,,Atlético Nacional,0–0,2–4,0,RoundOf16
+2016,Deportivo Táchira,1–2,,,UNAM,1–0,0–2,0,RoundOf16
+2016,Nacional,2–2,,1–0,Corinthians,0–0,2–2,0,RoundOf16
+2016,Racing,1–2,,,Atlético Mineiro,0–0,1–2,0,RoundOf16
+2016,São Paulo,5–3,,,Toluca,4–0,1–3,0,RoundOf16
+2016,Cerro Porteño,2–5,,,Boca Juniors,1–2,1–3,0,RoundOf16
+2016,Independiente del Valle,2–1,,,River Plate,2–0,0–1,0,RoundOf16
+2016,Grêmio,0–4,,,Rosario Central,0–1,0–3,0,RoundOf16
+2015,River Plate,1–0,,,Boca Juniors,1–0,0–0 (susp.),1,RoundOf16
+2015,Universitario de Sucre,2–3,,,UANL,1–2,1–1,0,RoundOf16
+2015,Atlético Mineiro,3–5,,,Internacional,2–2,1–3,0,RoundOf16
+2015,Guaraní,3–0,,,Corinthians,2–0,1–0,0,RoundOf16
+2015,Montevideo Wanderers,2–3,,,Racing,1–1,1–2,0,RoundOf16
+2015,Estudiantes,2–3,,,Santa Fe,2–1,0–2,0,RoundOf16
+2015,Emelec,2–1,,,Atlético Nacional,2–0,0–1,0,RoundOf16
+2015,São Paulo,1–1,3–4,,Cruzeiro,1–0,0–1,0,RoundOf16
+2014,Nacional,3–2,,,Vélez Sarsfield,1–0,2–2,0,RoundOf16
+2014,San Lorenzo,1–1,4–2,,Grêmio,1–0,0–1,0,RoundOf16
+2014,Lanús,4–1,,,Santos Laguna,2–1,2–0,0,RoundOf16
+2014,Atlético Nacional,2–1,,,Atlético Mineiro,1–0,1–1,0,RoundOf16
+2014,The Strongest,2–2,2–4,,Defensor Sporting,2–0,0–2,0,RoundOf16
+2014,León,3–3,,0–1,Bolívar,2–2,1–1,0,RoundOf16
+2014,Cruzeiro,3–1,,,Cerro Porteño,1–1,2–0,0,RoundOf16
+2014,Arsenal,1–0,,,Unión Española,0–0,1–0,0,RoundOf16
+2013,São Paulo,2–6,,,Atlético Mineiro,1–2,1–4,0,RoundOf16
+2013,Grêmio,2–2,,0–1,Santa Fe,2–1,0–1,0,RoundOf16
+2013,Tigre,2–3,,,Olimpia,2–1,0–2,0,RoundOf16
+2013,Boca Juniors,2–1,,,Corinthians,1–0,1–1,0,RoundOf16
+2013,Newell's Old Boys,2–2,,1–0,Vélez Sarsfield,0–1,2–1,0,RoundOf16
+2013,Emelec,2–3,,,Fluminense,2–1,0–2,0,RoundOf16
+2013,Real Garcilaso,1–1,4–1,,Nacional,1–0,0–1,0,RoundOf16
+2013,Tijuana,2–1,,,Palmeiras,0–0,2–1,0,RoundOf16
+2012,Fluminense,2–1,,,Internacional,0–0,2–1,0,RoundOf16
+2012,Corinthians,3–0,,,Emelec,0–0,3–0,0,RoundOf16
+2012,Santos,9–2,,,Bolívar,1–2,8–0,0,RoundOf16
+2012,Universidad de Chile,7–4,,,Deportivo Quito,1–4,6–0,0,RoundOf16
+2012,Libertad,3–1,,,Cruz Azul,1–1,2–0,0,RoundOf16
+2012,Vélez Sársfield,2–1,,,Atlético Nacional,1–0,1–1,0,RoundOf16
+2012,Lanús,3–3,4–5,,Vasco da Gama,1–2,2–1,0,RoundOf16
+2012,Unión Española,3–5,,,Boca Juniors,1–2,2–3,0,RoundOf16
+2011,Cruzeiro,2–3,,,Once Caldas,2–1,0–2,0,RoundOf16
+2011,Libertad,4–3,,,Fluminense,1–3,3–0,0,RoundOf16
+2011,Internacional,2–3,,,Peñarol,1–1,1–2,0,RoundOf16
+2011,Junior,4–4,,0–1,Chiapas,1–1,3–3,0,RoundOf16
+2011,Cerro Porteño,0–0,5–3,,Estudiantes,0–0,0–0,0,RoundOf16
+2011,Universidad Católica,3–1,,,Grêmio,2–1,1–0,0,RoundOf16
+2011,LDU Quito,0–5,,,Vélez Sársfield,0–3,0–2,0,RoundOf16
+2011,América,0–1,,,Santos,0–1,0–0,0,RoundOf16
+2022,Athletico Paranaense,1–0,,,Estudiantes,0–0,1–0,0,Quarters
+2022,Corinthians,0–3,,,Flamengo,0–2,0–1,0,Quarters
+2022,Vélez Sarsfield,4–2,,,Talleres,3–2,1–0,0,Quarters
+2022,Atlético Mineiro,2–2,5–6,,Palmeiras,2–2,0–0,0,Quarters
+2021,Olimpia,2–9,,,Flamengo,1–4,1–5,0,Quarters
+2021,River Plate,0–4,,,Atlético Mineiro,0–1,0–3,0,Quarters
+2021,São Paulo,1–4,,,Palmeiras,1–1,0–3,0,Quarters
+2021,Fluminense,3–3,,0–1,Barcelona,2–2,1–1,0,Quarters
+2020,Grêmio,2–5,,,Santos,1–1,1–4,0,Quarters
+2020,River Plate,8–2,,,Nacional,2–0,6–2,0,Quarters
+2020,Libertad,1–4,,,Palmeiras,1–1,0–3,0,Quarters
+2020,Racing,1–2,,,Boca Juniors,1–0,0–2,0,Quarters
+2019,River Plate,3–1,,,Cerro Porteño,2–0,1–1,0,Quarters
+2019,Grêmio,2–2,,1–0,Palmeiras,0–1,2–1,0,Quarters
+2019,Flamengo,3–1,,,Internacional,2–0,1–1,0,Quarters
+2019,LDU Quito,0–3,,,Boca Juniors,0–3,0–0,0,Quarters
+2018,Independiente,1–3,,,River Plate,0–0,1–3,0,Quarters
+2018,Colo-Colo,0–4,,,Palmeiras,0–2,0–2,0,Quarters
+2018,Boca Juniors,3–1,,,Cruzeiro,2–0,1–1,0,Quarters
+2018,Atlético Tucumán,0–6,,,Grêmio,0–2,0–4,0,Quarters
+2017,Jorge Wilstermann,3–8,,,River Plate,3–0,0–8,0,Quarters
+2017,Barcelona,2–1,,,Santos,1–1,1–0,0,Quarters
+2017,Botafogo,0–1,,,Grêmio,0–0,0–1,0,Quarters
+2017,San Lorenzo,2–2,3–4,,Lanús,2–0,0–2,0,Quarters
+2016,Rosario Central,2–3,,,Atlético Nacional,1–0,1–3,0,Quarters
+2016,Independiente del Valle,3–3,5–3,,UNAM,2–1,1–2,0,Quarters
+2016,Nacional,2–2,3–4,,Boca Juniors,1–1,1–1,0,Quarters
+2016,São Paulo,2–2,,1–0,Atlético Mineiro,1–0,1–2,0,Quarters
+2015,River Plate,3–1,,,Cruzeiro,0–1,3–0,0,Quarters
+2015,Emelec,1–2,,,UANL,1–0,0–2,0,Quarters
+2015,Santa Fe,1–2,,,Internacional,1–0,0–2,0,Quarters
+2015,Guaraní,1–0,,,Racing,1–0,0–0,0,Quarters
+2014,Nacional,1–0,,,Arsenal,1–0,0–0,0,Quarters
+2014,San Lorenzo,2–1,,,Cruzeiro,1–0,1–1,0,Quarters
+2014,Lanús,1–2,,,Bolívar,1–1,0–1,0,Quarters
+2014,Atlético Nacional,0–3,,,Defensor Sporting,0–2,0–1,0,Quarters
+2013,Tijuana,3–3,,0–1,Atlético Mineiro,2–2,1–1,0,Quarters
+2013,Real Garcilaso,1–5,,,Santa Fe,1–3,0–2,0,Quarters
+2013,Fluminense,1–2,,,Olimpia,0–0,1–2,0,Quarters
+2013,Boca Juniors,0–0,9–10,,Newell's Old Boys,0–0,0–0,0,Quarters
+2012,Fluminense,1–2,,,Boca Juniors,0–1,1–1,0,Quarters
+2012,Corinthians,1–0,,,Vasco da Gama,0–0,1–0,0,Quarters
+2012,Santos,1–1,4–2,,Vélez Sársfield,0–1,1–0,0,Quarters
+2012,Universidad de Chile,2–2,5–3,,Libertad,1–1,1–1,0,Quarters
+2022,Athletico Paranaense,3–2,,,Palmeiras,1–0,2–2,0,Semi
+2022,Vélez Sarsfield,1–6,,,Flamengo,0–4,1–2,0,Semi
+2021,Flamengo,4–0,,,Barcelona,2–0,2–0,0,Semi
+2021,Palmeiras,1–1,,1–0,Atlético Mineiro,0–0,1–1,0,Semi
+2020,Boca Juniors,0–3,,,Santos,0–0,0–3,0,Semi
+2020,River Plate,2–3,,,Palmeiras,0–3,2–0,0,Semi
+2019,River Plate,2–1,,,Boca Juniors,2–0,0–1,0,Semi
+2019,Grêmio,1–6,,,Flamengo,1–1,0–5,0,Semi
+2018,River Plate,2–2,,1–0,Grêmio,0–1,2–1,0,Semi
+2018,Boca Juniors,4–2,,,Palmeiras,2–0,2–2,0,Semi
+2017,River Plate,3–4,,,Lanús,1–0,2–4,0,Semi
+2017,Barcelona,1–3,,,Grêmio,0–3,1–0,0,Semi
+2016,São Paulo,1–4,,,Atlético Nacional,0–2,1–2,0,Semi
+2016,Independiente del Valle,5–3,,,Boca Juniors,2–1,3–2,0,Semi
+2015,River Plate,3–1,,,Guaraní,2–0,1–1,0,Semi
+2015,Internacional,3–4,,,UANL,2–1,1–3,0,Semi
+2014,Nacional,2–1,,,Defensor Sporting,2–0,0–1,0,Semi
+2014,San Lorenzo,5–1,,,Bolívar,5–0,0–1,0,Semi
+2013,Newell's Old Boys,2–2,2–3,,Atlético Mineiro,2–0,0–2,0,Semi
+2013,Olimpia,2–1,,,Santa Fe,2–0,0–1,0,Semi
+2012,Corinthians,2–1,,,Santos,1–0,1–1,0,Semi
+2012,Universidad de Chile,0–2,,,Boca Juniors,0–2,0–0,0,Semi
