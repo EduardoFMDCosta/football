@@ -1,0 +1,154 @@
+Year,Team1,Team2,Winner,WinnerPlayedLastGameAtHome,SameCountry,ScoreDiffFirstMatch,ScoreDiffSecondMatch,ScoreDiff,WinningType,DecidedPenalty,DecidedGoalAwayRule,Phase,Competition
+2022,Athletico Paranaense,Libertad,1,False,False,1,0,1,NORM,False,False,RoundOf16,Libertadores
+2022,Deportes Tolima,Flamengo,2,True,False,-1,-6,-7,NORM,False,False,RoundOf16,Libertadores
+2022,Vélez Sarsfield,River Plate,1,False,True,1,0,1,NORM,False,False,RoundOf16,Libertadores
+2022,Emelec,Atlético Mineiro,2,True,False,0,-1,-1,NORM,False,False,RoundOf16,Libertadores
+2022,Talleres,Colón,1,False,True,0,2,2,NORM,False,False,RoundOf16,Libertadores
+2022,Corinthians,Boca Juniors,1,False,False,0,0,0,PENA,True,False,RoundOf16,Libertadores
+2022,Fortaleza,Estudiantes,2,True,False,0,-3,-3,NORM,False,False,RoundOf16,Libertadores
+2021,Defensa y Justicia,Flamengo,2,True,False,-1,-3,-4,NORM,False,False,RoundOf16,Libertadores
+2021,Boca Juniors,Atlético Mineiro,2,True,False,0,0,0,PENA,True,False,RoundOf16,Libertadores
+2021,Universidad Católica,Palmeiras,2,True,False,-1,-1,-2,NORM,False,False,RoundOf16,Libertadores
+2021,Cerro Porteño,Fluminense,2,True,False,-2,-1,-3,NORM,False,False,RoundOf16,Libertadores
+2021,Vélez Sarsfield,Barcelona de Guayaquil,2,True,False,1,-2,-1,NORM,False,False,RoundOf16,Libertadores
+2021,São Paulo,Racing,1,False,False,0,2,2,NORM,False,False,RoundOf16,Libertadores
+2021,River Plate,Argentinos Juniors,1,False,True,0,2,2,NORM,False,False,RoundOf16,Libertadores
+2021,Olimpia,Internacional,1,False,False,0,0,0,PENA,True,False,RoundOf16,Libertadores
+2020,Guaraní,Grêmio,2,True,False,-2,-2,-4,NORM,False,False,RoundOf16,Libertadores
+2020,Independiente del Valle,Nacional,2,True,False,0,0,0,PENA,True,False,RoundOf16,Libertadores
+2020,Delfín,Palmeiras,2,True,False,-2,-5,-7,NORM,False,False,RoundOf16,Libertadores
+2020,Internacional,Boca Juniors,2,True,False,-1,1,0,PENA,True,False,RoundOf16,Libertadores
+2020,Racing,Flamengo,1,False,False,0,0,0,PENA,True,False,RoundOf16,Libertadores
+2020,Libertad,Jorge Wilstermann,1,False,False,2,2,4,NORM,False,False,RoundOf16,Libertadores
+2020,Athletico Paranaense,River Plate,2,True,False,0,-1,-1,NORM,False,False,RoundOf16,Libertadores
+2020,LDU Quito,Santos,2,True,False,-1,1,0,GAAT,False,True,RoundOf16,Libertadores
+2019,River Plate,Cruzeiro,1,False,False,0,0,0,PENA,True,False,RoundOf16,Libertadores
+2019,Godoy Cruz,Palmeiras,2,True,False,0,-4,-4,NORM,False,False,RoundOf16,Libertadores
+2019,Emelec,Flamengo,2,True,False,2,-2,0,PENA,True,False,RoundOf16,Libertadores
+2019,LDU Quito,Olimpia,1,False,False,2,0,2,NORM,False,False,RoundOf16,Libertadores
+2019,Athletico Paranaense,Boca Juniors,2,True,False,-1,-2,-3,NORM,False,False,RoundOf16,Libertadores
+2019,Nacional,Internacional,2,True,False,-1,-2,-3,NORM,False,False,RoundOf16,Libertadores
+2019,Grêmio,Libertad,1,False,False,2,3,5,NORM,False,False,RoundOf16,Libertadores
+2019,San Lorenzo,Cerro Porteño,2,True,False,0,-1,-1,NORM,False,False,RoundOf16,Libertadores
+2018,Racing,River Plate,2,True,True,0,-3,-3,NORM,False,False,RoundOf16,Libertadores
+2018,Colo-Colo,Corinthians,1,False,False,1,-1,0,GAAT,False,True,RoundOf16,Libertadores
+2018,Flamengo,Cruzeiro,2,True,True,-2,1,-1,NORM,False,False,RoundOf16,Libertadores
+2018,Estudiantes,Grêmio,2,True,False,1,-1,0,PENA,True,False,RoundOf16,Libertadores
+2018,Atlético Tucumán,Atlético Nacional,1,False,False,2,-1,1,NORM,False,False,RoundOf16,Libertadores
+2018,Boca Juniors,Libertad,1,False,False,2,2,4,NORM,False,False,RoundOf16,Libertadores
+2018,Cerro Porteño,Palmeiras,2,True,False,-2,1,-1,NORM,False,False,RoundOf16,Libertadores
+2017,Guaraní,River Plate,2,True,False,-2,0,-2,NORM,False,False,RoundOf16,Libertadores
+2017,Nacional,Botafogo,2,True,False,-1,-2,-3,NORM,False,False,RoundOf16,Libertadores
+2017,Emelec,San Lorenzo,2,True,False,-1,1,0,PENA,True,False,RoundOf16,Libertadores
+2017,The Strongest,Lanús,2,True,False,0,-1,-1,NORM,False,False,RoundOf16,Libertadores
+2017,Godoy Cruz,Grêmio,2,True,False,-1,-1,-2,NORM,False,False,RoundOf16,Libertadores
+2017,Jorge Wilstermann,Atlético Mineiro,1,False,False,1,0,1,NORM,False,False,RoundOf16,Libertadores
+2016,Huracán,Atlético Nacional,2,True,False,0,-2,-2,NORM,False,False,RoundOf16,Libertadores
+2016,Deportivo Táchira,UNAM,2,True,False,1,-2,-1,NORM,False,False,RoundOf16,Libertadores
+2016,Nacional,Corinthians,1,False,False,0,0,0,GAAT,False,True,RoundOf16,Libertadores
+2016,Racing,Atlético Mineiro,2,True,False,0,-1,-1,NORM,False,False,RoundOf16,Libertadores
+2016,São Paulo,Toluca,1,False,False,4,-2,2,NORM,False,False,RoundOf16,Libertadores
+2016,Cerro Porteño,Boca Juniors,2,True,False,-1,-2,-3,NORM,False,False,RoundOf16,Libertadores
+2016,Independiente del Valle,River Plate,1,False,False,2,-1,1,NORM,False,False,RoundOf16,Libertadores
+2016,Grêmio,Rosario Central,2,True,False,-1,-3,-4,NORM,False,False,RoundOf16,Libertadores
+2015,Universitario de Sucre,UANL,2,True,False,-1,0,-1,NORM,False,False,RoundOf16,Libertadores
+2015,Atlético Mineiro,Internacional,2,True,True,0,-2,-2,NORM,False,False,RoundOf16,Libertadores
+2015,Guaraní,Corinthians,1,False,False,2,1,3,NORM,False,False,RoundOf16,Libertadores
+2015,Montevideo Wanderers,Racing,2,True,False,0,-1,-1,NORM,False,False,RoundOf16,Libertadores
+2015,Estudiantes,Santa Fe,2,True,False,1,-2,-1,NORM,False,False,RoundOf16,Libertadores
+2015,Emelec,Atlético Nacional,1,False,False,2,-1,1,NORM,False,False,RoundOf16,Libertadores
+2015,São Paulo,Cruzeiro,2,True,True,1,-1,0,PENA,True,False,RoundOf16,Libertadores
+2014,Nacional,Vélez Sarsfield,1,False,False,1,0,1,NORM,False,False,RoundOf16,Libertadores
+2014,San Lorenzo,Grêmio,1,False,False,1,-1,0,PENA,True,False,RoundOf16,Libertadores
+2014,Lanús,Santos Laguna,1,False,False,1,2,3,NORM,False,False,RoundOf16,Libertadores
+2014,Atlético Nacional,Atlético Mineiro,1,False,False,1,0,1,NORM,False,False,RoundOf16,Libertadores
+2014,The Strongest,Defensor Sporting,2,True,False,2,-2,0,PENA,True,False,RoundOf16,Libertadores
+2014,León,Bolívar,2,True,False,0,0,0,GAAT,False,True,RoundOf16,Libertadores
+2014,Cruzeiro,Cerro Porteño,1,False,False,0,2,2,NORM,False,False,RoundOf16,Libertadores
+2014,Arsenal,Unión Española,1,False,False,0,1,1,NORM,False,False,RoundOf16,Libertadores
+2013,São Paulo,Atlético Mineiro,2,True,True,-1,-3,-4,NORM,False,False,RoundOf16,Libertadores
+2013,Grêmio,Santa Fe,2,True,False,1,-1,0,GAAT,False,True,RoundOf16,Libertadores
+2013,Tigre,Olimpia,2,True,False,1,-2,-1,NORM,False,False,RoundOf16,Libertadores
+2013,Boca Juniors,Corinthians,1,False,False,1,0,1,NORM,False,False,RoundOf16,Libertadores
+2013,Newell's Old Boys,Vélez Sarsfield,1,False,True,-1,1,0,GAAT,False,True,RoundOf16,Libertadores
+2013,Emelec,Fluminense,2,True,False,1,-2,-1,NORM,False,False,RoundOf16,Libertadores
+2013,Real Garcilaso,Nacional,1,False,False,1,-1,0,PENA,True,False,RoundOf16,Libertadores
+2013,Tijuana,Palmeiras,1,False,False,0,1,1,NORM,False,False,RoundOf16,Libertadores
+2012,Fluminense,Internacional,1,True,True,0,1,1,NORM,False,False,RoundOf16,Libertadores
+2012,Corinthians,Emelec,1,True,False,0,3,3,NORM,False,False,RoundOf16,Libertadores
+2012,Santos,Bolívar,1,True,False,-1,8,7,NORM,False,False,RoundOf16,Libertadores
+2012,Universidad de Chile,Deportivo Quito,1,True,False,-3,6,3,NORM,False,False,RoundOf16,Libertadores
+2012,Libertad,Cruz Azul,1,True,False,0,2,2,NORM,False,False,RoundOf16,Libertadores
+2012,Vélez Sársfield,Atlético Nacional,1,True,False,1,0,1,NORM,False,False,RoundOf16,Libertadores
+2012,Lanús,Vasco da Gama,2,False,False,-1,1,0,PENA,True,False,RoundOf16,Libertadores
+2012,Unión Española,Boca Juniors,2,False,False,-1,-1,-2,NORM,False,False,RoundOf16,Libertadores
+2011,Cruzeiro,Once Caldas,2,False,False,1,-2,-1,NORM,False,False,RoundOf16,Libertadores
+2011,Libertad,Fluminense,1,True,False,-2,3,1,NORM,False,False,RoundOf16,Libertadores
+2011,Internacional,Peñarol,2,False,False,0,-1,-1,NORM,False,False,RoundOf16,Libertadores
+2011,Junior,Chiapas,2,False,False,0,0,0,GAAT,False,True,RoundOf16,Libertadores
+2011,Cerro Porteño,Estudiantes,1,True,False,0,0,0,PENA,True,False,RoundOf16,Libertadores
+2011,Universidad Católica,Grêmio,1,True,False,1,1,2,NORM,False,False,RoundOf16,Libertadores
+2011,LDU Quito,Vélez Sársfield,2,False,False,-3,-2,-5,NORM,False,False,RoundOf16,Libertadores
+2011,América,Santos,2,False,False,-1,0,-1,NORM,False,False,RoundOf16,Libertadores
+2022,Athletico Paranaense,Estudiantes,1,False,False,0,1,1,NORM,False,False,Quarters,Libertadores
+2022,Corinthians,Flamengo,2,True,True,-2,-1,-3,NORM,False,False,Quarters,Libertadores
+2022,Vélez Sarsfield,Talleres,1,False,True,1,1,2,NORM,False,False,Quarters,Libertadores
+2022,Atlético Mineiro,Palmeiras,2,True,True,0,0,0,PENA,True,False,Quarters,Libertadores
+2021,Olimpia,Flamengo,2,True,False,-3,-4,-7,NORM,False,False,Quarters,Libertadores
+2021,River Plate,Atlético Mineiro,2,True,False,-1,-3,-4,NORM,False,False,Quarters,Libertadores
+2021,São Paulo,Palmeiras,2,True,True,0,-3,-3,NORM,False,False,Quarters,Libertadores
+2020,Grêmio,Santos,2,True,True,0,-3,-3,NORM,False,False,Quarters,Libertadores
+2020,River Plate,Nacional,1,False,False,2,4,6,NORM,False,False,Quarters,Libertadores
+2020,Libertad,Palmeiras,2,True,False,0,-3,-3,NORM,False,False,Quarters,Libertadores
+2020,Racing,Boca Juniors,2,True,True,1,-2,-1,NORM,False,False,Quarters,Libertadores
+2019,River Plate,Cerro Porteño,1,False,False,2,0,2,NORM,False,False,Quarters,Libertadores
+2019,Grêmio,Palmeiras,1,False,True,-1,1,0,GAAT,False,True,Quarters,Libertadores
+2019,Flamengo,Internacional,1,False,True,2,0,2,NORM,False,False,Quarters,Libertadores
+2019,LDU Quito,Boca Juniors,2,True,False,-3,0,-3,NORM,False,False,Quarters,Libertadores
+2018,Independiente,River Plate,2,True,True,0,-2,-2,NORM,False,False,Quarters,Libertadores
+2018,Colo-Colo,Palmeiras,2,True,False,-2,-2,-4,NORM,False,False,Quarters,Libertadores
+2018,Boca Juniors,Cruzeiro,1,False,False,2,0,2,NORM,False,False,Quarters,Libertadores
+2018,Atlético Tucumán,Grêmio,2,True,False,-2,-4,-6,NORM,False,False,Quarters,Libertadores
+2017,Jorge Wilstermann,River Plate,2,True,False,3,-8,-5,NORM,False,False,Quarters,Libertadores
+2017,Botafogo,Grêmio,2,True,True,0,-1,-1,NORM,False,False,Quarters,Libertadores
+2017,San Lorenzo,Lanús,2,True,True,2,-2,0,PENA,True,False,Quarters,Libertadores
+2016,Rosario Central,Atlético Nacional,2,True,False,1,-2,-1,NORM,False,False,Quarters,Libertadores
+2016,Independiente del Valle,UNAM,1,False,False,1,-1,0,PENA,True,False,Quarters,Libertadores
+2016,Nacional,Boca Juniors,2,True,False,0,0,0,PENA,True,False,Quarters,Libertadores
+2016,São Paulo,Atlético Mineiro,1,False,True,1,-1,0,GAAT,False,True,Quarters,Libertadores
+2015,River Plate,Cruzeiro,1,False,False,-1,3,2,NORM,False,False,Quarters,Libertadores
+2015,Emelec,UANL,2,True,False,1,-2,-1,NORM,False,False,Quarters,Libertadores
+2015,Santa Fe,Internacional,2,True,False,1,-2,-1,NORM,False,False,Quarters,Libertadores
+2015,Guaraní,Racing,1,False,False,1,0,1,NORM,False,False,Quarters,Libertadores
+2014,Nacional,Arsenal,1,False,False,1,0,1,NORM,False,False,Quarters,Libertadores
+2014,San Lorenzo,Cruzeiro,1,False,False,1,0,1,NORM,False,False,Quarters,Libertadores
+2014,Lanús,Bolívar,2,True,False,0,-1,-1,NORM,False,False,Quarters,Libertadores
+2014,Atlético Nacional,Defensor Sporting,2,True,False,-2,-1,-3,NORM,False,False,Quarters,Libertadores
+2013,Tijuana,Atlético Mineiro,2,True,False,0,0,0,GAAT,False,True,Quarters,Libertadores
+2013,Real Garcilaso,Santa Fe,2,True,False,-2,-2,-4,NORM,False,False,Quarters,Libertadores
+2013,Fluminense,Olimpia,2,True,False,0,-1,-1,NORM,False,False,Quarters,Libertadores
+2013,Boca Juniors,Newell's Old Boys,1,False,True,0,0,0,PENA,True,False,Quarters,Libertadores
+2012,Fluminense,Boca Juniors,2,False,False,-1,0,-1,NORM,False,False,Quarters,Libertadores
+2012,Corinthians,Vasco da Gama,1,True,True,0,1,1,NORM,False,False,Quarters,Libertadores
+2012,Santos,Vélez Sársfield,1,True,False,-1,1,0,PENA,True,False,Quarters,Libertadores
+2012,Universidad de Chile,Libertad,1,True,False,0,0,0,PENA,True,False,Quarters,Libertadores
+2022,Athletico Paranaense,Palmeiras,1,False,True,1,0,1,NORM,False,False,Semi,Libertadores
+2022,Vélez Sarsfield,Flamengo,2,True,False,-4,-1,-5,NORM,False,False,Semi,Libertadores
+2021,Palmeiras,Atlético Mineiro,1,False,True,0,0,0,GAAT,False,True,Semi,Libertadores
+2020,Boca Juniors,Santos,2,True,False,0,-3,-3,NORM,False,False,Semi,Libertadores
+2020,River Plate,Palmeiras,2,True,False,-3,2,-1,NORM,False,False,Semi,Libertadores
+2019,River Plate,Boca Juniors,1,False,True,2,-1,1,NORM,False,False,Semi,Libertadores
+2019,Grêmio,Flamengo,2,True,True,0,-5,-5,NORM,False,False,Semi,Libertadores
+2018,River Plate,Grêmio,1,False,False,-1,1,0,GAAT,False,True,Semi,Libertadores
+2018,Boca Juniors,Palmeiras,1,False,False,2,0,2,NORM,False,False,Semi,Libertadores
+2017,River Plate,Lanús,2,True,True,1,-2,-1,NORM,False,False,Semi,Libertadores
+2016,São Paulo,Atlético Nacional,2,True,False,-2,-1,-3,NORM,False,False,Semi,Libertadores
+2016,Independiente del Valle,Boca Juniors,1,False,False,1,1,2,NORM,False,False,Semi,Libertadores
+2015,River Plate,Guaraní,1,False,False,2,0,2,NORM,False,False,Semi,Libertadores
+2015,Internacional,UANL,2,True,False,1,-2,-1,NORM,False,False,Semi,Libertadores
+2014,Nacional,Defensor Sporting,1,False,True,2,-1,1,NORM,False,False,Semi,Libertadores
+2014,San Lorenzo,Bolívar,1,False,False,5,-1,4,NORM,False,False,Semi,Libertadores
+2013,Newell's Old Boys,Atlético Mineiro,2,True,False,2,-2,0,PENA,True,False,Semi,Libertadores
+2013,Olimpia,Santa Fe,1,False,False,2,-1,1,NORM,False,False,Semi,Libertadores
+2012,Corinthians,Santos,1,True,True,1,0,1,NORM,False,False,Semi,Libertadores
+2012,Universidad de Chile,Boca Juniors,2,False,False,-2,0,-2,NORM,False,False,Semi,Libertadores
