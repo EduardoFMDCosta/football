@@ -107,7 +107,7 @@ def map_to_data_model(data_path, match_raw, group_raw, data_model, competitivity
     df_scores['ScoreDiffSecondMatch'] = df_scores.apply(set_scores, args=('SecondMatch', ), axis=1)
     df_scores['ScoreDiff'] = df_scores['ScoreDiffFirstMatch'] + df_scores['ScoreDiffSecondMatch']
 
-    mask_competitivity = abs(df_scores['PointsTeam1'] - df_scores['PointsTeam2']) < competitivity_param
+    mask_competitivity = ((abs(df_scores['PointsTeam1'] - df_scores['PointsTeam2']) <= competitivity_param) & (df_scores['Phase'] == "RoundOf16")) | (df_scores['Phase'] != "RoundOf16")
 
     df_scores = df_scores[mask_competitivity]
 
